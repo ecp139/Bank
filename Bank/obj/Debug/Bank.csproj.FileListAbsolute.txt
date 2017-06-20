@@ -1,0 +1,4 @@
+/Users/esrapetursson/Desktop/Bank/Bank/bin/Debug/Bank.dll
+/Users/esrapetursson/Desktop/Bank/Bank/bin/Debug/Bank.dll.mdb
+/Users/esrapetursson/Desktop/Bank/Bank/obj/Debug/Bank.dll
+/Users/esrapetursson/Desktop/Bank/Bank/obj/Debug/Bank.dll.mdb

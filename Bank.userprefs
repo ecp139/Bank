@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2837B08C-CC91-4ACC-9283-AC940EF3587B}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.BankTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankTest/BankAccountTests.cs">
+    <Files>
+      <File FileName="Bank/BankAccount.cs" Line="16" Column="16" />
+      <File FileName="BankTest/BankAccountTests.cs" Line="15" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bank" expanded="True">
+            <Node name="Bank" expanded="True" />
+            <Node name="BankTest" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="BankAccountTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>BankTest/BankTest.csproj</String>
+  </DisabledProjects>
+</Properties>
